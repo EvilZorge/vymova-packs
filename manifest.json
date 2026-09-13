@@ -1,1 +1,116 @@
-{"formatVersion":1,"generatedAt":"","packs":[]}
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-09-13T01:51:15+00:00",
+  "packs": [
+    {
+      "id": "en-de",
+      "source": "en",
+      "target": "de",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-de.dict.xz",
+      "sha256": "a52c3232a71f80c0c64345b3b3ca50da12cc816100ee3ae54515e980981728f9",
+      "sizeCompressed": 7324220,
+      "sizeInstalled": 21753856,
+      "entries": 66248
+    },
+    {
+      "id": "en-fr",
+      "source": "en",
+      "target": "fr",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-fr.dict.xz",
+      "sha256": "b0fb150d919c8696c67ae4bb1707fc1f95896f000965654a01a5f5dbe0d4c6ab",
+      "sizeCompressed": 7195424,
+      "sizeInstalled": 21585920,
+      "entries": 68705
+    },
+    {
+      "id": "en-es",
+      "source": "en",
+      "target": "es",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-es.dict.xz",
+      "sha256": "f9325a02f73b1b050668fee8613101ac4a02e2982d2eabaf755dd4d17b47ebd5",
+      "sizeCompressed": 6856120,
+      "sizeInstalled": 20467712,
+      "entries": 61805
+    },
+    {
+      "id": "en-it",
+      "source": "en",
+      "target": "it",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-it.dict.xz",
+      "sha256": "a5a12a953c31656701325eb76fad226e541b4949c88f7a971fb1506ec04e2a9e",
+      "sizeCompressed": 5542572,
+      "sizeInstalled": 16515072,
+      "entries": 49895
+    },
+    {
+      "id": "en-pl",
+      "source": "en",
+      "target": "pl",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-pl.dict.xz",
+      "sha256": "7b2e6234b477fd8403935a8aa432aa337cafffb8f3629fd8834205f4e11c3ecd",
+      "sizeCompressed": 6697432,
+      "sizeInstalled": 20074496,
+      "entries": 63227
+    },
+    {
+      "id": "en-uk",
+      "source": "en",
+      "target": "uk",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-uk.dict.xz",
+      "sha256": "b317f7750e1dd98a0bb711e90eac9137b680556bfa2258ddb60f1d145962ccfc",
+      "sizeCompressed": 3175680,
+      "sizeInstalled": 9633792,
+      "entries": 22981
+    },
+    {
+      "id": "en-be",
+      "source": "en",
+      "target": "be",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-be.dict.xz",
+      "sha256": "ccb3a263db31da694f0a6dcd8598c97c14fb9c744d96b5e1e73104d5463f01f3",
+      "sizeCompressed": 2119104,
+      "sizeInstalled": 6348800,
+      "entries": 13539
+    },
+    {
+      "id": "en-pt",
+      "source": "en",
+      "target": "pt",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-pt.dict.xz",
+      "sha256": "e9baf90566b7630071cdae0bb5925b00ebf280b9801746c0da806ba906cab390",
+      "sizeCompressed": 5823028,
+      "sizeInstalled": 17391616,
+      "entries": 52437
+    },
+    {
+      "id": "en-nl",
+      "source": "en",
+      "target": "nl",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-nl.dict.xz",
+      "sha256": "8cff0b5538e87e4abec242ce0a02edf03b0fef9e01cda556af17f74692e28eec",
+      "sizeCompressed": 4872844,
+      "sizeInstalled": 14360576,
+      "entries": 40395
+    },
+    {
+      "id": "en-ru",
+      "source": "en",
+      "target": "ru",
+      "version": "2026.09.13",
+      "url": "https://github.com/EvilZorge/vymova-packs/releases/download/v2026.09.13/en-ru.dict.xz",
+      "sha256": "c251c3df6bd7ffaa3a98752562614113e26d4761c0ab7ef233f801bc23615d9f",
+      "sizeCompressed": 6442460,
+      "sizeInstalled": 20107264,
+      "entries": 55048
+    }
+  ]
+}
